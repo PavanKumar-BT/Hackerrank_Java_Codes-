@@ -1,3 +1,5 @@
+package Java_Introduction;
+
 import java.util.*;
 /*Scanner scanner = new Scanner(System.in);
 String myString = scanner.next();
